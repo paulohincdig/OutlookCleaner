@@ -1,6 +1,6 @@
 Dim excluidos As Long
 Const OBJECT_ID as String = "00000000F1699FF7A6B40F4E9300335B19D9BE5F82810000"
-Const URL_HOST as String = "http://sirmione"
+Const URL_HOST as String = "http://URL"
 Const SENDER_NAME as String = "MIS"
 Const FILE_TO_EXPORT as String = "c:\received.txt"
 
