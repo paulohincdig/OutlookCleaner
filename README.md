@@ -1,4 +1,4 @@
-# OutlookCleaner
+# OutlookUtils
 
 ## O Contexto
 
